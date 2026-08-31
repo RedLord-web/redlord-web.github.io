@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redlord-web.github.io/apps-legal/nihongo/words/sitemap.xml
