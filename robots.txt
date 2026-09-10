@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://redlord-web.github.io/apps-legal/nihongo/words/sitemap.xml
+Sitemap: https://redlord-web.github.io/apps-legal/nihongo/kanji/sitemap.xml
